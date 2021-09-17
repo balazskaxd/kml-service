@@ -134,6 +134,42 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>Polygon 6</name>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2902806,47.5156391,0
+                19.2901733,47.5152224,0
+                19.2904898,47.5151753,0
+                19.2905918,47.5156065,0
+                19.2902806,47.5156391,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Polygon 7</name>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2827881,47.5121584,0
+                19.2823857,47.5117145,0
+                19.2825681,47.5116366,0
+                19.2829731,47.5120805,0
+                19.2827881,47.5121584,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
