@@ -3,55 +3,13 @@
   <Document>
     <name>Nagytarcsa Ipari Terület</name>
     <description/>
-    <Style id="icon-1899-0288D1-nodesc-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FBC02D-1-77-nodesc-normal">
+    <Style id="poly-FFCC80-1-255-nodesc-normal">
       <LineStyle>
-        <color>ff2dc0fb</color>
+        <color>ff80ccff</color>
         <width>0.001</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d2dc0fb</color>
+        <color>ff80ccff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -59,13 +17,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-FBC02D-1-77-nodesc-highlight">
+    <Style id="poly-FFCC80-1-255-nodesc-highlight">
       <LineStyle>
-        <color>ff2dc0fb</color>
+        <color>ff80ccff</color>
         <width>0.0015</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d2dc0fb</color>
+        <color>ff80ccff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -73,31 +31,31 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-FBC02D-1-77-nodesc">
+    <StyleMap id="poly-FFCC80-1-255-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-FBC02D-1-77-nodesc-normal</styleUrl>
+        <styleUrl>#poly-FFCC80-1-255-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-FBC02D-1-77-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-FFCC80-1-255-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Névtelen réteg</name>
+      <name>Épületek</name>
       <Placemark>
         <name>C épület</name>
-        <styleUrl>#poly-FBC02D-1-77-nodesc</styleUrl>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                19.2887985,47.5160393,0
-                19.2883748,47.5146625,0
-                19.2887985,47.5146118,0
-                19.2892009,47.515985,0
-                19.2887985,47.5160393,0
+                19.2888508,47.5160176,0
+                19.288458,47.5147296,0
+                19.2887791,47.514687,0
+                19.2891661,47.5159742,0
+                19.2888508,47.5160176,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -105,12 +63,58 @@
       </Placemark>
       <Placemark>
         <name>Cool Coffe Bar</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            19.2898828,47.5157991,0
-          </coordinates>
-        </Point>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2897589,47.5158311,0
+                19.2897368,47.5157523,0
+                19.2898086,47.5157718,0
+                19.2899568,47.5157528,0
+                19.2899716,47.5158003,0
+                19.2897589,47.5158311,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Polygon 3</name>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.289347,47.5159465,0
+                19.2889554,47.5146631,0
+                19.2892572,47.5146259,0
+                19.2896662,47.5159058,0
+                19.289347,47.5159465,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Polygon 4</name>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2883586,47.5160749,0
+                19.2879455,47.5147959,0
+                19.2882781,47.5147488,0
+                19.2886697,47.5160386,0
+                19.2883586,47.5160749,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
     </Folder>
   </Document>
