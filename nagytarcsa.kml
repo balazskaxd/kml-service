@@ -116,6 +116,24 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>Polygon 5</name>
+        <styleUrl>#poly-FFCC80-1-255-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2898002,47.5156942,0
+                19.2895454,47.5146761,0
+                19.2898619,47.5146345,0
+                19.2901113,47.5156671,0
+                19.2898002,47.5156942,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
