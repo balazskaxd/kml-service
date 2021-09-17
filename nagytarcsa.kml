@@ -3,6 +3,44 @@
   <Document>
     <name>Nagytarcsa Ipari Terület</name>
     <description/>
+    <Style id="poly-A1C2FA-3301-15-nodesc-normal">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>3.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0ffac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-A1C2FA-3301-15-nodesc-highlight">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>4.9515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0ffac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-A1C2FA-3301-15-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A1C2FA-3301-15-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A1C2FA-3301-15-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-FFCC80-1-255-nodesc-normal">
       <LineStyle>
         <color>ff80ccff</color>
@@ -165,6 +203,42 @@
                 19.2825681,47.5116366,0
                 19.2829731,47.5120805,0
                 19.2827881,47.5121584,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Nagytarcsa Ipari Terület</name>
+        <styleUrl>#poly-A1C2FA-3301-15-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2866896,47.5154582,0
+                19.280542,47.5178277,0
+                19.2741154,47.5103567,0
+                19.2746948,47.5099944,0
+                19.2760359,47.5099001,0
+                19.2793082,47.5104582,0
+                19.2836319,47.5109292,0
+                19.2843722,47.5109944,0
+                19.2847262,47.5113712,0
+                19.2850266,47.5114292,0
+                19.2853163,47.5113278,0
+                19.2854236,47.5111756,0
+                19.2853592,47.5109437,0
+                19.2854451,47.5097842,0
+                19.2904876,47.5096393,0
+                19.2920111,47.509661,0
+                19.2930411,47.5098639,0
+                19.2932878,47.5109075,0
+                19.2940496,47.5139365,0
+                19.2944358,47.513893,0
+                19.2951654,47.5165307,0
+                19.2873548,47.5175958,0
+                19.2866896,47.5154582,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
