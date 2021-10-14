@@ -3,42 +3,6 @@
   <Document>
     <name>Nagytarcsa Ipari Terület</name>
     <description>Flexbox Közösség</description>
-    <Style id="icon-1899-0288D1-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-BCAAA4-1-255-normal">
       <LineStyle>
         <color>ffa4aabc</color>
@@ -6940,53 +6904,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Nagytarcsa Park FM Kft</name>
-        <description><![CDATA[<img src="https://doc-0g-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/tanua8771ipo98h26l5bqeah3c/1634209391750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vZfp-bpB9PmOYYep39rDWDd1BoZW14wBdo_WikPWHWmX0t1txBLBnuk8Gh8aYkL7GdG_f1zNzq6-_m9gAv96rDG01_aSV6xilHvztTY9EqnDy1BknK68QKpEaSA-jJt2Q_tUrsjfQwWmTrgra31AqZCd7HM8rd4zG2PHqFtpAdBDyqOH3J4Gesi4MwZHrbmRGRM?session=2&fife" height="200" width="auto" /><br><br><br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="osm_id">
-            <value/>
-          </Data>
-          <Data name="type">
-            <value/>
-          </Data>
-          <Data name="landuse">
-            <value/>
-          </Data>
-          <Data name="osm_way_id">
-            <value/>
-          </Data>
-          <Data name="building">
-            <value/>
-          </Data>
-          <Data name="other_tags">
-            <value/>
-          </Data>
-          <Data name="amenity">
-            <value/>
-          </Data>
-          <Data name="natural">
-            <value/>
-          </Data>
-          <Data name="leisure">
-            <value/>
-          </Data>
-          <Data name="barrier">
-            <value/>
-          </Data>
-          <Data name="gx_media_links">
-            <value><![CDATA[https://doc-0g-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/tanua8771ipo98h26l5bqeah3c/1634209391750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vZfp-bpB9PmOYYep39rDWDd1BoZW14wBdo_WikPWHWmX0t1txBLBnuk8Gh8aYkL7GdG_f1zNzq6-_m9gAv96rDG01_aSV6xilHvztTY9EqnDy1BknK68QKpEaSA-jJt2Q_tUrsjfQwWmTrgra31AqZCd7HM8rd4zG2PHqFtpAdBDyqOH3J4Gesi4MwZHrbmRGRM?session=2&fife]]></value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            19.2824495,47.5138045,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Daniella Logisztikai Központ</name>
-        <description><![CDATA[<img src="https://doc-14-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/poi379lqtg185o3avgfoqbttms/1634209391750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vYgkMBL6eE2pLLSEsYZ6mwXjUelH4Kg9GQa6ijf-9Wd--HYkKaqrjas6U4dH3Yd7TQyBQ_aq4ghxpkmDXp2uazU_boVBi2rGgq8rkz3d_gM-fsh9GQ3FDaOFSosb87Bx7K6NN0OpJymgZJmCthVxRUQ8_Uul_5dyZeiOYQ892yVRz_qr4EotBipv1Ii_mm6Y1MP?session=2&fife" height="200" width="auto" /><br><br><br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <description><![CDATA[<img src="https://doc-0s-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/kp47dav8fo47hmmtp7qner37og/1634209541250/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vaZ3vKCQ-YlWScGC7jhsgEVUg9Ewo3kpElGfSODysDQ7nnl7OT-9Vo_abuZfEEdN_QliIUhNIvBSziRxLjHMMCeUowL2cNKcxiQLAtmTS1m1OqA3xb87FqVZjKrnnQF9vcyeAIa5xrsP4wZc2wXzXw7GlkL2pwIMR4fyGAK9gpI4muPc-_UI_Ew6jYvBvuGePNO?session=2&fife" height="200" width="auto" /><br><br><br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -7020,7 +6939,7 @@
             <value/>
           </Data>
           <Data name="gx_media_links">
-            <value><![CDATA[https://doc-14-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/poi379lqtg185o3avgfoqbttms/1634209391750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vYgkMBL6eE2pLLSEsYZ6mwXjUelH4Kg9GQa6ijf-9Wd--HYkKaqrjas6U4dH3Yd7TQyBQ_aq4ghxpkmDXp2uazU_boVBi2rGgq8rkz3d_gM-fsh9GQ3FDaOFSosb87Bx7K6NN0OpJymgZJmCthVxRUQ8_Uul_5dyZeiOYQ892yVRz_qr4EotBipv1Ii_mm6Y1MP?session=2&fife]]></value>
+            <value><![CDATA[https://doc-0s-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/kp47dav8fo47hmmtp7qner37og/1634209541250/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vaZ3vKCQ-YlWScGC7jhsgEVUg9Ewo3kpElGfSODysDQ7nnl7OT-9Vo_abuZfEEdN_QliIUhNIvBSziRxLjHMMCeUowL2cNKcxiQLAtmTS1m1OqA3xb87FqVZjKrnnQF9vcyeAIa5xrsP4wZc2wXzXw7GlkL2pwIMR4fyGAK9gpI4muPc-_UI_Ew6jYvBvuGePNO?session=2&fife]]></value>
           </Data>
         </ExtendedData>
         <Polygon>
