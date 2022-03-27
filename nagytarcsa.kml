@@ -3,6 +3,198 @@
   <Document>
     <name>Nagytarcsa Ipari Terület</name>
     <description>Flexbox Közösség</description>
+    <Style id="poly-0288D1-1000-255-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0288D1-1000-255-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-1000-255-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-1000-255-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-3949AB-1000-255-normal">
+      <LineStyle>
+        <color>ffab4939</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffab4939</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3949AB-1000-255-highlight">
+      <LineStyle>
+        <color>ffab4939</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffab4939</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3949AB-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3949AB-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3949AB-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-1000-255-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-1000-255-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-9C27B0-1000-255-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffb0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-9C27B0-1000-255-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffb0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-9C27B0-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9C27B0-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9C27B0-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A52714-1000-255-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A52714-1000-255-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A52714-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A52714-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A52714-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-BCAAA4-1-255-normal">
       <LineStyle>
         <color>ffa4aabc</color>
@@ -97,6 +289,134 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-BCAAA4-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F48FB1-1000-255-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffb18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F48FB1-1000-255-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffb18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1000-255-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-1000-255-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF5252-1000-255-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF5252-1000-255-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF5252-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF5252-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF5252-1000-255-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFD600-1000-255-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFD600-1000-255-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFD600-1000-255">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFD600-1000-255-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFD600-1000-255-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -2096,9 +2416,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167776<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <name>B épület</name>
+        <description><![CDATA[B épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167776<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-3949AB-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -2147,9 +2467,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167777<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <name>A épület</name>
+        <description><![CDATA[A épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167777<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-7CB342-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -2198,8 +2518,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167778<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <name>C épület</name>
+        <description><![CDATA[C épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167778<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -2249,9 +2569,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167779<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <name>D épület</name>
+        <description><![CDATA[D épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167779<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-A52714-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -2300,9 +2620,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167780<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <name>E épület</name>
+        <description><![CDATA[E épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167780<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-FF5252-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -2351,9 +2671,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167781<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <name>F épület</name>
+        <description><![CDATA[F épüet<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167781<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-0288D1-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -2569,7 +2889,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 537167785<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-F48FB1-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4317,11 +4637,11 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                19.282508,47.513814,0
-                19.282276,47.513905,0
-                19.281796,47.513354,0
-                19.282028,47.513262,0
-                19.282508,47.513814,0
+                19.2824651,47.5138285,0
+                19.2822331,47.5139195,0
+                19.2817531,47.5133685,0
+                19.2819851,47.5132765,0
+                19.2824651,47.5138285,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -4379,8 +4699,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012095<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <name>K épület</name>
+        <description><![CDATA[K épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012095<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1000-247</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -4430,8 +4750,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012096<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <name>J épület</name>
+        <description><![CDATA[J épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012096<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -4481,8 +4801,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012105<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <name>G épület</name>
+        <description><![CDATA[G épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012105<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -4532,8 +4852,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012106<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <name>H épület</name>
+        <description><![CDATA[H épület<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012106<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -4585,7 +4905,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012107<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-9C27B0-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4636,7 +4956,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012108<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-3949AB-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4687,7 +5007,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012109<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-0F9D58-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4738,7 +5058,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012110<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-FF5252-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4789,7 +5109,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012111<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-F57C00-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -4840,7 +5160,7 @@
       <Placemark>
         <name/>
         <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: 790012112<br>building: yes<br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
-        <styleUrl>#poly-BCAAA4-1000-255</styleUrl>
+        <styleUrl>#poly-FFD600-1000-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
             <value/>
@@ -5445,15 +5765,15 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                19.280652,47.514402,0
-                19.2801,47.513794,0
-                19.280413,47.513665,0
-                19.280638,47.513912,0
-                19.280734,47.513873,0
-                19.281083,47.514256,0
-                19.280956,47.514309,0
-                19.280934,47.514285,0
-                19.280652,47.514402,0
+                19.2806735,47.5144527,0
+                19.2801215,47.5138447,0
+                19.2804345,47.5137157,0
+                19.2806595,47.5139627,0
+                19.2807555,47.5139237,0
+                19.2811045,47.5143067,0
+                19.2809775,47.5143597,0
+                19.2809555,47.5143357,0
+                19.2806735,47.5144527,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -6893,11 +7213,11 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                19.2804989,47.5124349,0
-                19.281372,47.5133361,0
-                19.2810555,47.5134802,0
-                19.2801811,47.5125762,0
-                19.2804989,47.5124349,0
+                19.2805633,47.5123624,0
+                19.2814364,47.5132636,0
+                19.2811199,47.5134077,0
+                19.2802455,47.5125037,0
+                19.2805633,47.5123624,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -6905,7 +7225,7 @@
       </Placemark>
       <Placemark>
         <name>Daniella Logisztikai Központ</name>
-        <description><![CDATA[<img src="https://doc-0s-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/kp47dav8fo47hmmtp7qner37og/1634209541250/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vaZ3vKCQ-YlWScGC7jhsgEVUg9Ewo3kpElGfSODysDQ7nnl7OT-9Vo_abuZfEEdN_QliIUhNIvBSziRxLjHMMCeUowL2cNKcxiQLAtmTS1m1OqA3xb87FqVZjKrnnQF9vcyeAIa5xrsP4wZc2wXzXw7GlkL2pwIMR4fyGAK9gpI4muPc-_UI_Ew6jYvBvuGePNO?session=2&fife" height="200" width="auto" /><br><br><br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <description><![CDATA[<img src="https://doc-04-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/r4geolj69636ia2i1bi13gj948/1648405014750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vbne73cwf7L6D47ehduVT5GLv5cwXveYO6kZqJTvDwDaB9I8G64XPVKffNs_OgRVVP7Ag0ChYC7hvbMcqWEe5X5cL3w8-JIaUZvw-ml2eEeKAB8MXRwUS9JHxjjQPTCL9OTe2mq4jLUOuw7dUJ4yGY9YR2Omny0xju_-gDSj2wlFLmOj00saZ14DRLsOZTJM4xZ?session=1&fife" height="200" width="auto" /><br><br><br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
         <styleUrl>#poly-BCAAA4-1-255</styleUrl>
         <ExtendedData>
           <Data name="osm_id">
@@ -6939,7 +7259,7 @@
             <value/>
           </Data>
           <Data name="gx_media_links">
-            <value><![CDATA[https://doc-0s-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/kp47dav8fo47hmmtp7qner37og/1634209541250/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vaZ3vKCQ-YlWScGC7jhsgEVUg9Ewo3kpElGfSODysDQ7nnl7OT-9Vo_abuZfEEdN_QliIUhNIvBSziRxLjHMMCeUowL2cNKcxiQLAtmTS1m1OqA3xb87FqVZjKrnnQF9vcyeAIa5xrsP4wZc2wXzXw7GlkL2pwIMR4fyGAK9gpI4muPc-_UI_Ew6jYvBvuGePNO?session=2&fife]]></value>
+            <value><![CDATA[https://doc-04-bc-mymaps.googleusercontent.com/untrusted/hostedimage/iv6a174mish2a4jc8a97j6f8ng/r4geolj69636ia2i1bi13gj948/1648405014750/37AiaI8m-sYhcgFRSnYMD7qtkVPQu4Fb/08459316434727783053/5AIsG_vbne73cwf7L6D47ehduVT5GLv5cwXveYO6kZqJTvDwDaB9I8G64XPVKffNs_OgRVVP7Ag0ChYC7hvbMcqWEe5X5cL3w8-JIaUZvw-ml2eEeKAB8MXRwUS9JHxjjQPTCL9OTe2mq4jLUOuw7dUJ4yGY9YR2Omny0xju_-gDSj2wlFLmOj00saZ14DRLsOZTJM4xZ?session=1&fife]]></value>
           </Data>
         </ExtendedData>
         <Polygon>
@@ -7006,6 +7326,312 @@
                 19.2784683,47.5109034,0
                 19.2797344,47.5123455,0
                 19.2773955,47.5132622,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 134</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.281768,47.5163632,0
+                19.2811242,47.5165951,0
+                19.2807273,47.5161277,0
+                19.2813817,47.5158777,0
+                19.281768,47.5163632,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 135</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2797134,47.513356,0
+                19.2792789,47.5128886,0
+                19.2795739,47.5127727,0
+                19.279995,47.5132455,0
+                19.2797134,47.513356,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 136</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2767775,47.5141615,0
+                19.2757689,47.5129586,0
+                19.2760908,47.5128426,0
+                19.2770779,47.5140455,0
+                19.2767775,47.5141615,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 138</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.282103,47.5139685,0
+                19.2818723,47.5140537,0
+                19.2813895,47.5135066,0
+                19.2816041,47.5134223,0
+                19.282103,47.5139685,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 139</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2828425,47.5136779,0
+                19.2823624,47.5131362,0
+                19.2825609,47.5130602,0
+                19.2830235,47.5136018,0
+                19.2828425,47.5136779,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sokszög 140</name>
+        <description><![CDATA[<br><br>osm_id: <br>type: <br>landuse: <br>osm_way_id: <br>building: <br>other_tags: <br>amenity: <br>natural: <br>leisure: <br>barrier: ]]></description>
+        <styleUrl>#poly-BCAAA4-1-255</styleUrl>
+        <ExtendedData>
+          <Data name="osm_id">
+            <value/>
+          </Data>
+          <Data name="type">
+            <value/>
+          </Data>
+          <Data name="landuse">
+            <value/>
+          </Data>
+          <Data name="osm_way_id">
+            <value/>
+          </Data>
+          <Data name="building">
+            <value/>
+          </Data>
+          <Data name="other_tags">
+            <value/>
+          </Data>
+          <Data name="amenity">
+            <value/>
+          </Data>
+          <Data name="natural">
+            <value/>
+          </Data>
+          <Data name="leisure">
+            <value/>
+          </Data>
+          <Data name="barrier">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.2836781,47.5117434,0
+                19.2832919,47.5113086,0
+                19.2838283,47.5111129,0
+                19.2841931,47.511555,0
+                19.2836781,47.5117434,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
